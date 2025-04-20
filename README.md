@@ -81,7 +81,7 @@ Segmented customers to enable personalized marketing campaigns.
 ## 📎 Contact
 
 💼 I'm currently looking for **junior data analyst** opportunities (remote/hybrid/freelance).  
-📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aguilhermerg/) or check out my full [GitHub profile](https://github.com/aguilhermerg).
+📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andre-guilherme-alves-rodrigues/) or check out my full [GitHub profile](https://github.com/aguilhermerg).
 
 ---
 
