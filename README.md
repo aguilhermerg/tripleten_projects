@@ -1,69 +1,87 @@
 # 📊 Tripleten Data Analytics Projects
 
-Welcome to my portfolio of projects completed as part of the **Data Analytics Bootcamp** by [Tripleten](https://tripleten.com).  
-This repository showcases **14 hands-on projects** where I applied concepts such as:
+[![GitHub Stars](https://img.shields.io/github/stars/aguilhermerg/tripleten_projects?style=social)](https://github.com/aguilhermerg/tripleten_projects)
+[![MIT License](https://img.shields.io/github/license/aguilhermerg/tripleten_projects)](./LICENSE.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+Welcome! This repository contains **14 data analysis projects** completed during my Data Analytics Bootcamp at **Tripleten**.
+
+Each project explores different areas such as:
+- 📌 Data Cleaning & Preprocessing
 - 📈 Exploratory Data Analysis (EDA)
-- 📊 Data Visualization (Power BI & Tableau)
-- 🧮 Statistics & Hypothesis Testing
-- 🤖 Machine Learning (basic models)
-- 🔍 Data Cleaning & Wrangling
-- 🧹 ETL processes
-- 📦 SQL for data manipulation
-
-> 💼 I’m a Junior Data Analyst actively looking for opportunities (remote, hybrid, freelance).  
-> Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andre-guilherme-alves-rodrigues/)
+- 🧪 A/B and Hypothesis Testing
+- 🧠 Machine Learning Models
+- 🗃️ SQL Queries & ETL
+- 📊 Dashboards in Tableau and Power BI
 
 ---
 
-## 🧠 Technologies & Tools
+## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📦 Project 1: E-commerce Customer Data Cleaning
+Cleaned and analyzed user behavior data to detect anomalies, duplicates and missing values.
+
+### 🎵 Project 2: Music Streaming Data Analysis
+Exploratory analysis on user preferences and trends for a music app.
+
+### 🛒 Project 3: Market Basket Analysis (Instacart)
+Applied association rules to identify frequently bought product combinations.
+
+### 📱 Project 4: Mobile Plan Optimization
+Evaluated call and internet usage to recommend cost-saving plans.
+
+### 🚗 **Project 5: Vehicle Data Dashboard (Power BI)**
+Developed interactive Power BI dashboards for automotive market insights.
+
+### 🎮 **Project 6: Video Game Sales Analysis**
+Analyzed game sales across platforms and regions using Python and Seaborn.
+
+### 🚕 **Project 7: Chicago Taxi & Weather Data**
+Examined taxi trip data to explore patterns under different weather conditions.
+
+### 📣 **Project 8: Marketing Expense Optimization**
+Used regression to measure ROI from various marketing channels.
+
+### 🧪 **Project 9: A/B Testing for Revenue Optimization**
+Prioritized and analyzed A/B test results to guide product decisions.
+
+### 🍽️ Project 10: Market Research for Robot Waiter Café
+Identified ideal locations in LA using competitor data and demographics.
+
+### 📱 Project 11: Food Delivery App Funnel Analysis
+Combined product funnel analysis with A:A:B testing methods.
+
+### 📹 Project 12: YouTube Video Trends Dashboard (Tableau)
+Visualized most popular video categories by country and region.
+
+### 🏋️ Project 13: Gym Customer Churn Prediction
+Built a logistic regression model to predict churn and recommend retention strategies.
+
+### 🛍️ **Project 14: E-commerce Customer Segmentation (RFM & KMeans)**
+Segmented customers to enable personalized marketing campaigns.
 
 ---
 
-## 📁 Project Highlights
+## 🧰 Tools & Technologies
 
-Here’s a selection of the projects in this repository:
-
-### 1. 🧹 **Data Cleaning and Preprocessing**
-- Cleaned and normalized raw e-commerce data
-- Handled missing values, duplicates, and outliers
-
-### 2. 🛍 **Customer Segmentation**
-- Used **RFM analysis** and **K-Means Clustering** to group customers
-- Recommended targeted marketing actions based on insights
-
-### 3. 📉 **Churn Prediction**
-- Built a predictive model to identify customers at risk of leaving
-- Evaluated performance with accuracy, precision, and recall metrics
-
-### 4. 📈 **Sales Forecasting**
-- Applied linear regression to forecast sales
-- Visualized trends and seasonality
-
-### 5. 📊 **Dashboard Development**
-- Created interactive dashboards using **Power BI** and **Tableau**
-- Designed visual storytelling for business KPIs
-
-### 6. 🔎 **SQL Queries & Analysis**
-- Extracted business insights from relational databases
-- Wrote optimized queries for customer, orders, and product datasets
+| Category         | Tools & Libraries |
+|------------------|------------------|
+| Languages        | `Python`, `SQL`  |
+| Data Analysis    | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
+| Modeling         | `Scikit-Learn`, `Statsmodels` |
+| BI & Dashboards  | `Power BI`, `Tableau` |
+| Databases        | `PostgreSQL`, `SQLite` |
+| Other            | `Jupyter`, `Google Colab`, `Excel` |
 
 ---
 
-## 🚀 About Me
+## 📎 Contact
 
-I’m **André Rodrigues**, a former supply chain and logistics specialist turned **Data Analyst**.  
-With 10+ years in business operations and a recent transition into data, I bring both technical and business perspectives to my work.
-
-📍 Based in Lisbon, Portugal | 🌍 Open to remote, hybrid, and freelance roles  
-📫 Contact: aguilherme.rg@gmail.com | [LinkedIn](https://www.linkedin.com/in/andre-guilherme-alves-rodrigues)
+💼 I'm currently looking for **junior data analyst** opportunities (remote/hybrid/freelance).  
+📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aguilhermerg/) or check out my full [GitHub profile](https://github.com/aguilhermerg).
 
 ---
 
